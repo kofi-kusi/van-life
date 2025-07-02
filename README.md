@@ -9,7 +9,7 @@ npm run dev
 
 > [!NOTE]  
 > This project doesn't have a real authentication.
-> Use the below credincials to log in as a host:
+> Use this credentials to log in as a host:
 
  ```bash
 email: b@b.com
